@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JayLen18/gc_act/issues"
   },
-  "homepage": "https://JayLen18.github.io/gc_act"
+  "homepage": "https://JayLen18.github.io/gc_act",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
