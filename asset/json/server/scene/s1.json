@@ -1,0 +1,2437 @@
+{
+    "sceneObjects": [
+        null,
+        null,
+        {
+            "modelID": 2,
+            "index": 2,
+            "name": "传送门1-上",
+            "x": 1168,
+            "y": 496,
+            "z": 0,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ],
+            "avatarID": 1034,
+            "avatarOri": 8,
+            "avatarAct": 1,
+            "avatarFPS": 12,
+            "avatarFrame": 1,
+            "avatarAlpha": 1,
+            "avatarHue": 0,
+            "shadowEnable": false,
+            "shadowWidth": 30,
+            "shadowHeight": 15,
+            "shadowAlpha": 0.5,
+            "displayList": {
+                "avatar": {
+                    "type": 1,
+                    "id": 1034
+                }
+            },
+            "moduleDisplayList": [
+                {},
+                {
+                    "uiText": {
+                        "type": 2,
+                        "id": 15
+                    }
+                }
+            ],
+            "layerLevel": 0,
+            "autoPlayEnable": true,
+            "scale": 1,
+            "playerUID": 0,
+            "hasCommand": [],
+            "moduleIDs": [
+                7,
+                5
+            ],
+            "hideOriBox": false
+        },
+        {
+            "modelID": 2,
+            "index": 3,
+            "name": "指示物-蓝",
+            "x": 464,
+            "y": 496,
+            "z": 0,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ],
+            "avatarID": 1069,
+            "avatarOri": 8,
+            "avatarAct": 1,
+            "avatarFPS": 12,
+            "avatarFrame": 1,
+            "avatarAlpha": 1,
+            "avatarHue": 0,
+            "shadowEnable": false,
+            "shadowWidth": 30,
+            "shadowHeight": 15,
+            "shadowAlpha": 0.5,
+            "displayList": {
+                "avatar": {
+                    "type": 1,
+                    "id": 1069
+                }
+            },
+            "moduleDisplayList": [
+                {
+                    "uiText": {
+                        "type": 2,
+                        "id": 15
+                    }
+                }
+            ],
+            "layerLevel": 1,
+            "autoPlayEnable": true,
+            "scale": 1,
+            "playerUID": 0,
+            "hasCommand": [],
+            "moduleIDs": [
+                5
+            ],
+            "hideOriBox": true
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "customCommands": [
+        [
+            [
+                -1,
+                {
+                    "___cmdID": "112936409571_0.9006520964538653"
+                }
+            ]
+        ]
+    ],
+    "customAttributes": [
+        null,
+        null,
+        {
+            "isOrnament": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "rectLeftLineThrough": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "rectRightLineThrough": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "rectTopLineThrough": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "rectBottomLineThrough": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "touchTrigger": {
+                "varType": 3,
+                "value": {
+                    "specialEvent": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "onlyPlayerTouch": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "removeEventWhenTouch": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "addEventWhenAway": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchTargetForce": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchEnabled2": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchSelfForce": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchTargetForce2": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce2": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled3": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchTargetForce3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled0": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchTargetForce0": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce0": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled1": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchTargetForce1": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce1": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyInput0": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput0": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput1": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput1": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput2": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput2": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput3": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput3": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayEnabled2": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awaySelfForce": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayTargetForce2": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce2": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled3": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled0": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce0": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce0": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled1": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce1": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce1": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchTargetForce_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchEnabled2_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchSelfForce_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchTargetForce2_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce2_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled3_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchTargetForce3_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce3_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled0_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchTargetForce0_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce0_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled1_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchTargetForce1_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce1_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyInput0_A": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput0_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput_A": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput1_A": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput1_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput2_A": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput2_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput3_A": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput3_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayEnabled2_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awaySelfForce_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayTargetForce2_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce2_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled3_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce3_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce3_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled0_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce0_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce0_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled1_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce1_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce1_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "playerJumpListen": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "playerJumpEvent": {
+                        "varType": 1,
+                        "value": "",
+                        "copy": false
+                    }
+                },
+                "copy": false
+            },
+            "dynamic": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "dynamicCollisionEnabled": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "fixOri": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "autoMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveType": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "moveSpeed": {
+                "varType": 0,
+                "value": 500,
+                "copy": false
+            },
+            "moveStartType": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "moveLine": {
+                "varType": 9,
+                "value": [],
+                "copy": false
+            },
+            "gravity": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "hide": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "defBehavior": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            },
+            "totalJumpTimes": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "actionPriority": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "forceArr": {
+                "varType": 11,
+                "value": [],
+                "copy": false
+            },
+            "isDead": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "currentJumpTimes": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "isRelativeMovement": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "touchGroundForceRecord": {
+                "varType": 8,
+                "value": [],
+                "copy": false
+            }
+        },
+        {
+            "isOrnament": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "rectLeftLineThrough": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "rectRightLineThrough": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "rectTopLineThrough": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "rectBottomLineThrough": {
+                "varType": 2,
+                "value": true,
+                "copy": false
+            },
+            "touchTrigger": {
+                "varType": 3,
+                "value": {
+                    "specialEvent": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "onlyPlayerTouch": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "removeEventWhenTouch": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "addEventWhenAway": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchTargetForce": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchEnabled2": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchSelfForce": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchTargetForce2": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce2": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled3": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchTargetForce3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled0": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchTargetForce0": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce0": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled1": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchTargetForce1": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce1": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyInput0": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput0": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput1": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput1": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput2": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput2": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput3": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput3": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayEnabled2": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awaySelfForce": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayTargetForce2": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce2": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled3": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled0": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce0": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce0": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled1": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce1": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce1": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchTargetForce_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchEnabled2_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchSelfForce_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchTargetForce2_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce2_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled3_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchTargetForce3_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce3_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled0_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchTargetForce0_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce0_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchEnabled1_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "touchTargetForce1_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "touchSelfForce1_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyInput0_A": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput0_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput_A": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput1_A": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput1_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput2_A": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput2_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "keyInput3_A": {
+                        "varType": 3,
+                        "value": {
+                            "isMulKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "key": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKey": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "systemKeys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "keys": {
+                                "varType": 6,
+                                "value": [],
+                                "copy": false
+                            },
+                            "mulKeyType": {
+                                "varType": 0,
+                                "value": 0,
+                                "copy": false
+                            },
+                            "CTRL": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "SHIFT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            },
+                            "ALT": {
+                                "varType": 2,
+                                "value": false,
+                                "copy": false
+                            }
+                        },
+                        "copy": false
+                    },
+                    "needKeyInput3_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayEnabled2_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awaySelfForce_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayTargetForce2_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce2_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled3_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce3_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce3_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled0_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce0_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce0_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awayEnabled1_A": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "awayTargetForce1_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "awaySelfForce1_A": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "playerJumpListen": {
+                        "varType": 2,
+                        "value": false,
+                        "copy": false
+                    },
+                    "playerJumpEvent": {
+                        "varType": 1,
+                        "value": "",
+                        "copy": false
+                    }
+                },
+                "copy": false
+            },
+            "dynamic": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "dynamicCollisionEnabled": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "fixOri": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "autoMove": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "moveType": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "moveSpeed": {
+                "varType": 0,
+                "value": 500,
+                "copy": false
+            },
+            "moveStartType": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "moveLine": {
+                "varType": 9,
+                "value": [],
+                "copy": false
+            },
+            "gravity": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "hide": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "defBehavior": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            },
+            "totalJumpTimes": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "actionPriority": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "forceArr": {
+                "varType": 11,
+                "value": [],
+                "copy": false
+            },
+            "isDead": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "currentJumpTimes": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "isRelativeMovement": {
+                "varType": 2,
+                "value": false,
+                "copy": false
+            },
+            "touchGroundForceRecord": {
+                "varType": 8,
+                "value": [],
+                "copy": false
+            }
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "modulesCustomAttributes": [
+        null,
+        [
+            {
+                "text": {
+                    "varType": 1,
+                    "value": "请输入内容",
+                    "copy": false
+                },
+                "color": {
+                    "varType": 1,
+                    "value": "#ffffff",
+                    "copy": false
+                },
+                "x": {
+                    "varType": 0,
+                    "value": 0,
+                    "copy": false
+                },
+                "y": {
+                    "varType": 0,
+                    "value": -40,
+                    "copy": false
+                },
+                "alwaysShow": {
+                    "varType": 2,
+                    "value": false,
+                    "copy": false
+                }
+            }
+        ],
+        [
+            {
+                "toScene": {
+                    "varType": 12,
+                    "value": {
+                        "isVer": false,
+                        "id": 2,
+                        "x": 237,
+                        "y": 1659,
+                        "isCell": false,
+                        "ori": 0
+                    },
+                    "copy": false
+                },
+                "needInputKey": {
+                    "varType": 2,
+                    "value": true,
+                    "copy": false
+                },
+                "key": {
+                    "varType": 3,
+                    "value": {
+                        "isMulKey": {
+                            "varType": 0,
+                            "value": 2,
+                            "copy": false
+                        },
+                        "key": {
+                            "varType": 0,
+                            "value": 89,
+                            "copy": false
+                        },
+                        "systemKey": {
+                            "varType": 0,
+                            "value": 7,
+                            "copy": false
+                        },
+                        "systemKeys": {
+                            "varType": 6,
+                            "value": [],
+                            "copy": false
+                        },
+                        "keys": {
+                            "varType": 6,
+                            "value": [],
+                            "copy": false
+                        },
+                        "mulKeyType": {
+                            "varType": 0,
+                            "value": 0,
+                            "copy": false
+                        },
+                        "CTRL": {
+                            "varType": 2,
+                            "value": false,
+                            "copy": false
+                        },
+                        "SHIFT": {
+                            "varType": 2,
+                            "value": false,
+                            "copy": false
+                        },
+                        "ALT": {
+                            "varType": 2,
+                            "value": false,
+                            "copy": false
+                        }
+                    },
+                    "copy": false
+                }
+            },
+            {
+                "text": {
+                    "varType": 1,
+                    "value": "按#Y键进入传送门",
+                    "copy": false
+                },
+                "color": {
+                    "varType": 1,
+                    "value": "#ffffff",
+                    "copy": false
+                },
+                "x": {
+                    "varType": 0,
+                    "value": 0,
+                    "copy": false
+                },
+                "y": {
+                    "varType": 0,
+                    "value": -40,
+                    "copy": false
+                },
+                "alwaysShow": {
+                    "varType": 2,
+                    "value": false,
+                    "copy": false
+                }
+            }
+        ],
+        [
+            {
+                "text": {
+                    "varType": 1,
+                    "value": "按#LEFT键和#RIGHT键进行左右移动",
+                    "copy": false
+                },
+                "color": {
+                    "varType": 1,
+                    "value": "#ffffff",
+                    "copy": false
+                },
+                "x": {
+                    "varType": 0,
+                    "value": 0,
+                    "copy": false
+                },
+                "y": {
+                    "varType": 0,
+                    "value": -40,
+                    "copy": false
+                },
+                "alwaysShow": {
+                    "varType": 2,
+                    "value": false,
+                    "copy": false
+                }
+            }
+        ],
+        [
+            {
+                "text": {
+                    "varType": 1,
+                    "value": "请输入内容",
+                    "copy": false
+                },
+                "color": {
+                    "varType": 1,
+                    "value": "#ffffff",
+                    "copy": false
+                },
+                "x": {
+                    "varType": 0,
+                    "value": 0,
+                    "copy": false
+                },
+                "y": {
+                    "varType": 0,
+                    "value": -40,
+                    "copy": false
+                },
+                "alwaysShow": {
+                    "varType": 2,
+                    "value": false,
+                    "copy": false
+                }
+            }
+        ],
+        [
+            {
+                "text": {
+                    "varType": 1,
+                    "value": "请输入常驻内容",
+                    "copy": false
+                },
+                "color": {
+                    "varType": 1,
+                    "value": "#ffffff",
+                    "copy": false
+                },
+                "x": {
+                    "varType": 0,
+                    "value": 0,
+                    "copy": false
+                },
+                "y": {
+                    "varType": 0,
+                    "value": -40,
+                    "copy": false
+                },
+                "alwaysShow": {
+                    "varType": 2,
+                    "value": true,
+                    "copy": false
+                }
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "customAttributesCaches": [],
+    "modulesCustomAttributesCaches": [],
+    "events": [
+        null,
+        null,
+        {
+            "condition": [],
+            "customCommands": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "condition": [],
+            "customCommands": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "statusPages": [
+        null,
+        null,
+        [],
+        [],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "statusPagesSelectedIndexs": [],
+    "id": 1
+}
