@@ -1,0 +1,192 @@
+{
+    "picUrls": [
+        "asset/image/avatar/door/blue/Door_white_2.png",
+        "asset/image/avatar/door/blue/Door_white_3.png",
+        "asset/image/avatar/door/blue/Door_white_1.png"
+    ],
+    "oriMode": 4,
+    "autoFlip": true,
+    "refObjs": {
+        "1": {
+            "y": -67,
+            "x": -13,
+            "height": 100,
+            "width": 100,
+            "radius": 20,
+            "type": 0,
+            "rotation": 0
+        }
+    },
+    "helperSetting": {
+        "1": {
+            "mouseEventEnabledInEditor": true,
+            "showOnEditor": true
+        }
+    },
+    "helperType": 1,
+    "referenceMode": false,
+    "referenceID": 1,
+    "parts": [
+        {
+            "id": 0,
+            "showOnEditor": true,
+            "mouseEventEnabledInEditor": true
+        }
+    ],
+    "actionListArr": [
+        {
+            "id": 1,
+            "frameImageInfo": [
+                [
+                    {
+                        "picUrlIndex": 2,
+                        "rect": [
+                            0,
+                            0,
+                            96,
+                            96
+                        ],
+                        "x": -48,
+                        "y": -80,
+                        "width": 96,
+                        "height": 96,
+                        "rotation": 0,
+                        "alpha": 1,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "frameHelper": {
+                            "1": {
+                                "y": -66,
+                                "x": -32,
+                                "height": 82,
+                                "width": 64,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    }
+                ],
+                [
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            32,
+                            96
+                        ],
+                        "x": -16,
+                        "y": -80,
+                        "width": 32,
+                        "height": 96,
+                        "rotation": 0,
+                        "alpha": 1,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "frameHelper": {
+                            "1": {
+                                "y": -66,
+                                "x": -14,
+                                "height": 82,
+                                "width": 29,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    }
+                ],
+                [
+                    {
+                        "picUrlIndex": 1,
+                        "rect": [
+                            0,
+                            0,
+                            32,
+                            96
+                        ],
+                        "x": -16,
+                        "y": -80,
+                        "width": 32,
+                        "height": 96,
+                        "rotation": 0,
+                        "alpha": 1,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "frameHelper": {
+                            "1": {
+                                "y": -66,
+                                "x": -14,
+                                "height": 82,
+                                "width": 29,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    }
+                ],
+                [
+                    {
+                        "picUrlIndex": 2,
+                        "rect": [
+                            0,
+                            0,
+                            96,
+                            96
+                        ],
+                        "x": -48,
+                        "y": -80,
+                        "width": 96,
+                        "height": 96,
+                        "rotation": 0,
+                        "alpha": 1,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "frameHelper": {
+                            "1": {
+                                "y": -66,
+                                "x": -32,
+                                "height": 82,
+                                "width": 64,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    }
+                ]
+            ]
+        }
+    ],
+    "id": 1032
+}

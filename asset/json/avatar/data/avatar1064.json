@@ -1,0 +1,116 @@
+{
+    "picUrls": [
+        "asset/image/avatar/carry/Horizontal_1x5.png"
+    ],
+    "oriMode": 2,
+    "autoFlip": true,
+    "refObjs": {
+        "1": {
+            "y": -77,
+            "x": -22,
+            "height": 100,
+            "width": 21,
+            "radius": 20,
+            "type": 0,
+            "rotation": 0
+        }
+    },
+    "helperSetting": {
+        "1": {
+            "mouseEventEnabledInEditor": true,
+            "showOnEditor": true
+        }
+    },
+    "helperType": 1,
+    "referenceMode": false,
+    "referenceID": 1,
+    "parts": [
+        {
+            "id": 0,
+            "showOnEditor": true,
+            "mouseEventEnabledInEditor": true
+        }
+    ],
+    "actionListArr": [
+        {
+            "id": 1,
+            "frameImageInfo": [
+                [
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            160,
+                            36
+                        ],
+                        "x": -16,
+                        "y": 80,
+                        "width": 160,
+                        "height": 36,
+                        "rotation": -90,
+                        "alpha": 1,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "frameHelper": {
+                            "1": {
+                                "y": -80,
+                                "x": -16,
+                                "height": 160,
+                                "width": 21,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    }
+                ],
+                [
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            160,
+                            36
+                        ],
+                        "x": 16,
+                        "y": -80,
+                        "width": 160,
+                        "height": 36,
+                        "rotation": 90,
+                        "alpha": 1,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "frameHelper": {
+                            "1": {
+                                "y": -80,
+                                "x": -5,
+                                "height": 160,
+                                "width": 21,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    }
+                ]
+            ]
+        }
+    ],
+    "id": 1064
+}

@@ -1,0 +1,159 @@
+{
+    "picUrls": [
+        "asset/image/avatar/spike_trap/Trap_1x1_A_5.png"
+    ],
+    "oriMode": 1,
+    "autoFlip": true,
+    "refObjs": {
+        "1": {
+            "y": -39,
+            "x": -40,
+            "height": 100,
+            "width": 100,
+            "radius": 20,
+            "type": 3,
+            "rotation": 0,
+            "points": [
+                -40,
+                -1,
+                -15,
+                7,
+                -21,
+                20,
+                -8,
+                13,
+                1,
+                41,
+                8,
+                14,
+                20,
+                20,
+                15,
+                7,
+                40,
+                -1,
+                15,
+                -8,
+                20,
+                -21,
+                7,
+                -14,
+                -1,
+                -39,
+                -8,
+                -15,
+                -22,
+                -22,
+                -15,
+                -8
+            ],
+            "boundingBox": {
+                "x": -40,
+                "y": -39,
+                "width": 80,
+                "height": 80
+            }
+        }
+    },
+    "helperSetting": {
+        "1": {
+            "mouseEventEnabledInEditor": true,
+            "showOnEditor": true
+        }
+    },
+    "helperType": 1,
+    "referenceMode": false,
+    "referenceID": 1,
+    "parts": [
+        {
+            "id": 0,
+            "showOnEditor": true,
+            "mouseEventEnabledInEditor": true
+        }
+    ],
+    "actionListArr": [
+        {
+            "id": 1,
+            "frameImageInfo": [
+                [
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            96,
+                            96
+                        ],
+                        "x": -48,
+                        "y": -48,
+                        "width": 96,
+                        "height": 96,
+                        "rotation": 0,
+                        "alpha": 1,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "frameHelper": {
+                            "1": {
+                                "y": -40,
+                                "x": -40,
+                                "height": 80,
+                                "width": 80,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0,
+                                "points": [
+                                    -40,
+                                    -1,
+                                    -15,
+                                    7,
+                                    -21,
+                                    20,
+                                    -8,
+                                    13,
+                                    1,
+                                    41,
+                                    8,
+                                    14,
+                                    20,
+                                    20,
+                                    15,
+                                    7,
+                                    40,
+                                    -1,
+                                    15,
+                                    -8,
+                                    20,
+                                    -21,
+                                    7,
+                                    -14,
+                                    -1,
+                                    -39,
+                                    -8,
+                                    -15,
+                                    -22,
+                                    -22,
+                                    -15,
+                                    -8
+                                ],
+                                "boundingBox": {
+                                    "x": -40,
+                                    "y": -39,
+                                    "width": 80,
+                                    "height": 80
+                                }
+                            }
+                        }
+                    }
+                ]
+            ]
+        }
+    ],
+    "id": 1028
+}

@@ -1,0 +1,414 @@
+{
+    "picUrls": [
+        "asset/image/avatar/disappear/Disappear_green_1.png"
+    ],
+    "oriMode": 1,
+    "autoFlip": true,
+    "refObjs": {
+        "1": {
+            "y": -16,
+            "x": -16,
+            "height": 32,
+            "width": 32,
+            "radius": 20,
+            "type": 0,
+            "rotation": 0
+        }
+    },
+    "helperSetting": {
+        "1": {
+            "mouseEventEnabledInEditor": true,
+            "showOnEditor": true
+        }
+    },
+    "helperType": 1,
+    "referenceMode": false,
+    "referenceID": 1,
+    "parts": [
+        {
+            "id": 0,
+            "showOnEditor": true,
+            "mouseEventEnabledInEditor": true
+        }
+    ],
+    "actionListArr": [
+        {
+            "id": 1,
+            "frameImageInfo": [
+                [
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            32,
+                            32
+                        ],
+                        "x": -16,
+                        "y": -16,
+                        "width": 32,
+                        "height": 32,
+                        "rotation": 0,
+                        "alpha": 1,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "wait_type": 0,
+                        "wait_count": 999999,
+                        "frameHelper": {
+                            "1": {
+                                "y": -16,
+                                "x": -16,
+                                "height": 32,
+                                "width": 32,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    },
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            32,
+                            32
+                        ],
+                        "x": -16,
+                        "y": -16,
+                        "width": 32,
+                        "height": 32,
+                        "rotation": 0,
+                        "alpha": 0.8,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "wait_type": 0,
+                        "wait_count": 999999,
+                        "frameHelper": {
+                            "1": {
+                                "y": -16,
+                                "x": -16,
+                                "height": 32,
+                                "width": 32,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    },
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            32,
+                            32
+                        ],
+                        "x": -16,
+                        "y": -16,
+                        "width": 32,
+                        "height": 32,
+                        "rotation": 0,
+                        "alpha": 0.6,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "wait_type": 0,
+                        "wait_count": 999999,
+                        "frameHelper": {
+                            "1": {
+                                "y": -16,
+                                "x": -16,
+                                "height": 32,
+                                "width": 32,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    },
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            32,
+                            32
+                        ],
+                        "x": -16,
+                        "y": -16,
+                        "width": 32,
+                        "height": 32,
+                        "rotation": 0,
+                        "alpha": 0.4,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "wait_type": 0,
+                        "wait_count": 999999,
+                        "frameHelper": {
+                            "1": {
+                                "y": -16,
+                                "x": -16,
+                                "height": 32,
+                                "width": 32,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    },
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            32,
+                            32
+                        ],
+                        "x": -16,
+                        "y": -16,
+                        "width": 32,
+                        "height": 32,
+                        "rotation": 0,
+                        "alpha": 0.2,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "wait_type": 0,
+                        "wait_count": 999999,
+                        "frameHelper": {
+                            "1": {
+                                "y": -16,
+                                "x": -16,
+                                "height": 32,
+                                "width": 32,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    },
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            32,
+                            32
+                        ],
+                        "x": -16,
+                        "y": -16,
+                        "width": 32,
+                        "height": 32,
+                        "rotation": 0,
+                        "alpha": 0,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "wait_type": 1,
+                        "wait_count": 10,
+                        "frameHelper": {
+                            "1": {
+                                "y": -9999,
+                                "x": -16,
+                                "height": 1,
+                                "width": 1,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    },
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            32,
+                            32
+                        ],
+                        "x": -16,
+                        "y": -16,
+                        "width": 32,
+                        "height": 32,
+                        "rotation": 0,
+                        "alpha": 0.2,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "wait_type": 0,
+                        "wait_count": 999999,
+                        "frameHelper": {
+                            "1": {
+                                "y": -16,
+                                "x": -16,
+                                "height": 32,
+                                "width": 32,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    },
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            32,
+                            32
+                        ],
+                        "x": -16,
+                        "y": -16,
+                        "width": 32,
+                        "height": 32,
+                        "rotation": 0,
+                        "alpha": 0.4,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "wait_type": 0,
+                        "wait_count": 999999,
+                        "frameHelper": {
+                            "1": {
+                                "y": -16,
+                                "x": -16,
+                                "height": 32,
+                                "width": 32,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    },
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            32,
+                            32
+                        ],
+                        "x": -16,
+                        "y": -16,
+                        "width": 32,
+                        "height": 32,
+                        "rotation": 0,
+                        "alpha": 0.6,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "wait_type": 0,
+                        "wait_count": 999999,
+                        "frameHelper": {
+                            "1": {
+                                "y": -16,
+                                "x": -16,
+                                "height": 32,
+                                "width": 32,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    },
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            32,
+                            32
+                        ],
+                        "x": -16,
+                        "y": -16,
+                        "width": 32,
+                        "height": 32,
+                        "rotation": 0,
+                        "alpha": 0.8,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1,
+                        "wait_type": 1,
+                        "wait_count": 10,
+                        "frameHelper": {
+                            "1": {
+                                "y": -16,
+                                "x": -16,
+                                "height": 32,
+                                "width": 32,
+                                "radius": 20,
+                                "type": 0,
+                                "rotation": 0
+                            }
+                        }
+                    }
+                ]
+            ]
+        }
+    ],
+    "id": 1084
+}
